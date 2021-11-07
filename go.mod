@@ -1,4 +1,4 @@
-module github.com/Vinetwigs/vilmos
+module github.com/Vinetwigs/vilmos/v2
 
 go 1.17
 
